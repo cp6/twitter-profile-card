@@ -2,12 +2,12 @@
 ### Responsive twitter profile card with data using API
 
 
-Go to https://apps.twitter.com/ and get yourself the folllowing:
+Go to https://apps.twitter.com/ and get yourself the folllowing
 
-    `oauth_access_token`
-    `oauth_access_token_secret`
-    `consumer_key`
-    `consumer_secret`
+    * `oauth_access_token`
+    * `oauth_access_token_secret`
+    * `consumer_key`
+    * `consumer_secret`
     
     Put them into `index.php` lines 24-27 (replacing the placeholder XX
     
