@@ -78,5 +78,6 @@ function returndata($user)
     }
     return array('id' => $userid, 'userName' => $username, 'name' => $name, 'location' => $location, 'description' => $description, 'follower' => $followers,
         'following' => $following, 'created' => $made, 'favortitesCount' => $favourites_count, 'listedCount' => $listed_count, 'utcOffset' => $utc_offset,
-        'timeZone' => $time_zone, 'tweets' => $tweets_amount, 'coverImage' => $cover_img, 'profileBanner' => $profile_banner, 'profileAvatar' => $profile_img, 'website' => $website, 'websiteLink' => $website_link, 'verified' => $verified);
+        'timeZone' => $time_zone, 'tweets' => $tweets_amount, 'coverImage' => $cover_img, 'profileBanner' => $profile_banner, 'profileAvatar' => $profile_img,
+         'website' => $website, 'websiteLink' => $website_link, 'verified' => $verified);
 }
